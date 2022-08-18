@@ -8,3 +8,5 @@ Idk... I like looking at things one level of abstraction deeper at a time. Thoug
 C will always be my first love, though I've had some recent musings with Go. Professionally, I use JavaScript/Typescript, Python, and Ruby.
 
 Wanna chat or connect? Shoot me an email at joseph.bautista@proton.me. Would love to connect with y'alls.
+
+![](assets/frame.png)
